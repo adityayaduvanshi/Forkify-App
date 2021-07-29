@@ -45,7 +45,7 @@ Tools: VS Code, Node.js, Express.js, Babel, Webpack
 <ul>
   <li>Language: Javascript,HTML,CSS</li>
   <li>Tools: VS Code, Node.js, Express.js, Babel, Webpack</li>
-  <li>CSS</li>
+  
   </ul>
   
   
